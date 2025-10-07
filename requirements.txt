@@ -1,0 +1,5 @@
+
+python-OBD>=0.7.1
+pyserial>=3.5
+matplotlib>=3.8
+reportlab>=4.0
